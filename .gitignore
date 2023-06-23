@@ -1,0 +1,5 @@
+src/__pycache__
+data/credential.json
+data/appelli_INL_2022-23.xlsx
+config/config.yaml
+config/token.json
